@@ -28,7 +28,4 @@ This project showcases an intuitive, modern, and mobile-friendly interface for a
 ---
 
 ## 📱 Screenshots
-![Image](https://github.com/user-attachments/assets/02b54457-5d01-47fe-afd5-eedbcbc2213b)
-![Image](https://github.com/user-attachments/assets/427385bf-a444-4ea0-ba4c-af7b9188c5af)
-![Image](https://github.com/user-attachments/assets/9b3f3d35-1f3d-42dc-a7e7-05e39174b255)
-![Image](https://github.com/user-attachments/assets/18dc2249-8af7-4aa9-9a57-e4597a8af87d)
+![Image](https://github.com/user-attachments/assets/238749ff-f484-4c57-b940-8577bae699e6)
